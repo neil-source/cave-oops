@@ -39,3 +39,9 @@ Saved as `public/assets/sprites-v2/respawn-burst-chatgpt.png`.
 Use the user's supplied jungle-ruin gameplay screenshot as the main visual reference for the gray masonry shapes, jungle shadows, moss treatment, contrast, and pixel density. Create one original square seamless background wall tile made from charcoal ruin stone, cool gray blocks, dark mortar, and restrained mossy olive-green growth. Match Cave Oops' crisp 16-bit pixel clusters and outlines. Make it flat, edge-to-edge, and tileable on every side, with no perspective, foreground ledge, characters, copied level layout, items, skulls, vines, props, text, or watermark. Use no red, orange, or magenta.
 
 Saved as `public/assets/dark-stone-wall-chatgpt.png`.
+
+## Mossy passage frame
+
+Use the user's supplied jungle-ruin gameplay screenshot as the main reference for gray stone, moss, contrast, and pixel density. Create one original wide rectangular broken-ruin passage frame with chunky gray masonry around the left, top, and right edges and restrained olive-green growth. The large inner passage and the area outside the frame must have genuine transparent alpha. Include no copied level layout, characters, items, skulls, door, spikes, text, letters, or watermark.
+
+Saved as `public/assets/passage-frame-chatgpt.png`.
