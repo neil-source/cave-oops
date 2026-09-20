@@ -33,3 +33,9 @@ The actor and trap atlases were cut into 20 isolated transparent files under `pu
 Create one magical checkpoint respawn burst sprite for Cave Oops: a circular golden ring of chunky square pixels, tiny cyan sparks, and a short upward glow beneath the explorer. Match the warm comic underground-adventure style with crisp 16-bit pixel clusters and dark brown outlines. Use a genuinely transparent background with generous padding. Include no character, floor, text, letters, or watermark.
 
 Saved as `public/assets/sprites-v2/respawn-burst-chatgpt.png`.
+
+## Seamless dark stone wall
+
+Create one square seamless background wall tile made from irregular navy-charcoal masonry with small cracks, dark mortar, and subtle cool blue-gray highlights. Match Cave Oops' crisp 16-bit pixel clusters and outlines. Make it flat, edge-to-edge, and tileable on every side, with no perspective, foreground ledge, characters, props, text, or watermark. Use no red, orange, magenta, or bright gold.
+
+Saved as `public/assets/dark-stone-wall-chatgpt.png`.
