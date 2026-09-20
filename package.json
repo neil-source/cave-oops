@@ -1,0 +1,8 @@
+{
+  "name":"cave-oops",
+  "version":"0.1.0",
+  "private":true,
+  "description":"A funny, hard pixel platformer with five underground stages.",
+  "scripts":{"start":"node server.cjs","test":"node --test test.cjs"},
+  "engines":{"node":">=18"}
+}

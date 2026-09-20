@@ -1,0 +1,3 @@
+const test=require('node:test');const assert=require('node:assert/strict');const http=require('node:http');const{server,safeFile}=require('./server.cjs');
+test('blocks files outside public',()=>assert.equal(safeFile('/../package.json'),null));
+test('serves game and health',async()=>{await new Promise(r=>server.listen(0,'127.0.0.1',r));const port=server.address().port;const get=p=>new Promise((resolve,reject)=>http.get(`http://127.0.0.1:${port}${p}`,r=>{let b='';r.on('data',d=>b+=d);r.on('end',()=>resolve([r.statusCode,b]));}).on('error',reject));const[a,b]=await Promise.all([get('/'),get('/health')]);assert.equal(a[0],200);assert.match(a[1],/Cave Oops/);assert.equal(JSON.parse(b[1]).ok,true);await new Promise(r=>server.close(r));});
