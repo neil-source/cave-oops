@@ -16,3 +16,5 @@ Run `npm start`, then open <http://localhost:8792>.
 PS5 DualSense controllers work through Chrome with either a USB cable or Bluetooth. The title screen changes to **PS5 CONTROLLER READY** when Chrome detects it.
 
 The game saves unlocked stages, best times, gold, and total deaths in the browser.
+
+Terrain always renders at one fixed pixel scale. Narrow ledges crop the cave texture instead of squeezing it. Player physics use fine substeps, separate horizontal and vertical collision resolution, ceiling-corner correction, coyote time, and solid push-out so moving blocks cannot leave the player trapped inside terrain.
