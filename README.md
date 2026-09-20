@@ -1,12 +1,12 @@
 # Cave Oops!
 
-A funny, difficult pixel platformer with five stages. This is a separate project; Town Raid and Lantern Realms remain untouched.
+A funny, difficult pixel platformer with five tall, stacked-room stages. Each route snakes across a chamber, descends through connecting ledges, and continues below. This is a separate project; Town Raid and Lantern Realms remain untouched.
 
 Run `npm start`, then open <http://localhost:8792>.
 
 ## Controls
 
-- Move: A/D, arrows, left stick, or D-pad
+- Move: A/D, arrows, either stick, or D-pad
 - Jump: Space, X, or Cross
 - Dash: Shift, C, Square, Circle, or right trigger
 - Drop from ledges: S, down, or down on left stick
