@@ -36,6 +36,6 @@ Saved as `public/assets/sprites-v2/respawn-burst-chatgpt.png`.
 
 ## Seamless dark stone wall
 
-Create one square seamless background wall tile made from irregular navy-charcoal masonry with small cracks, dark mortar, and subtle cool blue-gray highlights. Match Cave Oops' crisp 16-bit pixel clusters and outlines. Make it flat, edge-to-edge, and tileable on every side, with no perspective, foreground ledge, characters, props, text, or watermark. Use no red, orange, magenta, or bright gold.
+Use the user's supplied jungle-ruin gameplay screenshot as the main visual reference for the gray masonry shapes, jungle shadows, moss treatment, contrast, and pixel density. Create one original square seamless background wall tile made from charcoal ruin stone, cool gray blocks, dark mortar, and restrained mossy olive-green growth. Match Cave Oops' crisp 16-bit pixel clusters and outlines. Make it flat, edge-to-edge, and tileable on every side, with no perspective, foreground ledge, characters, copied level layout, items, skulls, vines, props, text, or watermark. Use no red, orange, or magenta.
 
 Saved as `public/assets/dark-stone-wall-chatgpt.png`.
