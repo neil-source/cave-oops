@@ -27,3 +27,9 @@ Create exactly five large low-resolution pixel-art wall textures in one horizont
 Saved as `public/assets/cave-oops-backgrounds-v2-chatgpt.png`.
 
 The actor and trap atlases were cut into 20 isolated transparent files under `public/assets/sprites-v2/`. The game loads these individual files, so neighboring atlas art cannot leak into a character, enemy, checkpoint, spike, arrow, boulder, or portal frame.
+
+## Checkpoint respawn burst
+
+Create one magical checkpoint respawn burst sprite for Cave Oops: a circular golden ring of chunky square pixels, tiny cyan sparks, and a short upward glow beneath the explorer. Match the warm comic underground-adventure style with crisp 16-bit pixel clusters and dark brown outlines. Use a genuinely transparent background with generous padding. Include no character, floor, text, letters, or watermark.
+
+Saved as `public/assets/sprites-v2/respawn-burst-chatgpt.png`.
