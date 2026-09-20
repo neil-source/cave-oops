@@ -1,6 +1,6 @@
 # Cave Oops!
 
-A funny, difficult pixel platformer with five tall, stacked-room stages. Each route snakes across a chamber, descends through connecting ledges, and continues below. This is a separate project; Town Raid and Lantern Realms remain untouched.
+A funny, difficult pixel platformer with five large continuous ruin maps. Each 1,660-pixel-wide route snakes across tiled chambers, descends through carved connector shafts, and continues through maps up to 3,000 pixels tall. This is a separate project; Town Raid and Lantern Realms remain untouched.
 
 Run `npm start`, then open <http://localhost:8792>.
 

@@ -1,6 +1,6 @@
 {
   "name": "cave-oops",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "private": true,
   "description": "A funny, hard pixel platformer with five underground stages.",
   "scripts": {
