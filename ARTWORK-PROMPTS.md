@@ -45,3 +45,9 @@ Saved as `public/assets/dark-stone-wall-chatgpt.png`.
 Use the user's supplied jungle-ruin gameplay screenshot as the main reference for gray stone, moss, contrast, and pixel density. Create one original wide rectangular broken-ruin passage frame with chunky gray masonry around the left, top, and right edges and restrained olive-green growth. The large inner passage and the area outside the frame must have genuine transparent alpha. Include no copied level layout, characters, items, skulls, door, spikes, text, letters, or watermark.
 
 Saved as `public/assets/passage-frame-chatgpt.png`.
+
+## Natural cave terrain
+
+Use the user's supplied dark-cave gameplay screenshot as the main reference for pixel density, readable platform edges, layered rust-red clay, navy stone, roots, and small gold seams. Create one original seamless square side-view terrain block with a flat collision edge, crisp square pixel clusters, and opaque edge-to-edge coverage. Include no characters, ladders, traps, UI, text, watermark, or copied level layout.
+
+Saved as `public/assets/natural-cave-terrain-chatgpt.png`. The game separates its clay surface and deep-rock regions while drawing platforms, so every ledge has a clear walkable top and a connected rock body.

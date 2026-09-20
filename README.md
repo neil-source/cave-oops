@@ -1,6 +1,6 @@
 # Cave Oops!
 
-A funny, difficult pixel platformer with five large continuous ruin maps. Each 1,660-pixel-wide route snakes across connected tiled chambers, descends through clearly framed character-sized openings, and continues through maps up to 3,000 pixels tall. This is a separate project; Town Raid and Lantern Realms remain untouched.
+A funny, difficult pixel platformer with five large continuous cave maps. Each 1,660-pixel-wide route snakes across connected tiled chambers, descends through clearly framed character-sized openings, and continues through maps up to 3,000 pixels tall. Deterministic cave rules build gently changing ceilings, connected side walls, supported chamber edges, and open transition routes. Platforms use original ChatGPT-generated clay-and-dark-rock art based on the supplied cave reference. This is a separate project; Town Raid and Lantern Realms remain untouched.
 
 Run `npm start`, then open <http://localhost:8792>.
 
