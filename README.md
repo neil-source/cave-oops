@@ -6,11 +6,13 @@ Run `npm start`, then open <http://localhost:8792>.
 
 ## Controls
 
-- Move: A/D, arrows, or left stick
+- Move: A/D, arrows, left stick, or D-pad
 - Jump: Space, X, or Cross
-- Dash: Shift, C, Square, or right trigger
+- Dash: Shift, C, Square, Circle, or right trigger
 - Drop from ledges: S, down, or down on left stick
 - Restart stage: R or Triangle
 - Pause: Escape, Start, or Options
+
+PS5 DualSense controllers work through Chrome with either a USB cable or Bluetooth. The title screen changes to **PS5 CONTROLLER READY** when Chrome detects it.
 
 The game saves unlocked stages, best times, gold, and total deaths in the browser.

@@ -19,3 +19,11 @@ Saved as `public/assets/cave-oops-tiles-chatgpt.png`.
 Create transparent pixel-art sprites for arrow traps, retracting spikes, swinging weights, boulders, impact effects, checkpoints, a cage, key, gems, health food, crates, explosive barrels, moving and ghost platforms, bounce pads, and an animated exit portal. Keep consistent scale, aligned animation frames, clean gutters, transparent alpha, and no text or watermark.
 
 Saved as `public/assets/cave-oops-traps-chatgpt.png`.
+
+## Five pixel backgrounds
+
+Create exactly five large low-resolution pixel-art wall textures in one horizontal row: sandstone temple bricks, deep navy cave rock, layered red mine clay, golden trap-tomb masonry, and midnight blue crystal cave stone. Use hard square edges, consistent 4x4-looking pixel clusters, no smooth curves, no blur, no gradients, and no characters, props, platforms, text, or UI.
+
+Saved as `public/assets/cave-oops-backgrounds-v2-chatgpt.png`.
+
+The actor and trap atlases were cut into 20 isolated transparent files under `public/assets/sprites-v2/`. The game loads these individual files, so neighboring atlas art cannot leak into a character, enemy, checkpoint, spike, arrow, boulder, or portal frame.
