@@ -18,3 +18,5 @@ PS5 DualSense controllers work through Chrome with either a USB cable or Bluetoo
 The game saves unlocked stages, best times, gold, and total deaths in the browser.
 
 Terrain always renders at one fixed pixel scale. Narrow ledges crop the cave texture instead of squeezing it. Player physics use fine substeps, separate horizontal and vertical collision resolution, ceiling-corner correction, coyote time, and solid push-out so moving blocks cannot leave the player trapped inside terrain.
+
+The courier, enemies, traps, checkpoints, and portals use individually cut `sprites-v3` artwork with crisp fully transparent edges. Five cause-specific courier death animations provide twenty different frames for spikes, falls, enemy hits, arrows, and boulders. Death poses are clamped inside the camera so every animation remains visible before the checkpoint reset.

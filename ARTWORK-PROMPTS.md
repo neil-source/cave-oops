@@ -51,3 +51,15 @@ Saved as `public/assets/passage-frame-chatgpt.png`.
 Use the user's supplied dark-cave gameplay screenshot as the main reference for pixel density, readable platform edges, layered rust-red clay, navy stone, roots, and small gold seams. Create one original seamless square side-view terrain block with a flat collision edge, crisp square pixel clusters, and opaque edge-to-edge coverage. Include no characters, ladders, traps, UI, text, watermark, or copied level layout.
 
 Saved as `public/assets/natural-cave-terrain-chatgpt.png`. The game separates its clay surface and deep-rock regions while drawing platforms, so every ledge has a clear walkable top and a connected rock body.
+
+## Rebuilt actor atlas
+
+Using the existing courier only to preserve character identity and the supplied cave screenshot for pixel density, create an original strict 6-by-2 transparent sprite grid. Include six consistent courier movement poses, five rebuilt cave enemies, and one stunned courier. Keep fixed chunky pixel clusters, hard outlines, identical proportions, generous gutters, and no scenery, text, borders, or neighboring-cell overlap.
+
+Saved as `public/assets/cave-oops-actors-v3-chatgpt.png` and cut into individual true-alpha files under `public/assets/sprites-v3/`.
+
+## Five death-animation sequences
+
+Create a strict 4-by-5 transparent atlas for the same courier. Each row is a different harmless four-frame slapstick sequence: spikes, long fall, enemy bonk, suction-cup arrow trap, and boulder flattening. Keep the outfit identical in all twenty frames, align each sequence consistently, and include no blood, gore, scenery, labels, borders, or watermark.
+
+Saved as `public/assets/cave-oops-deaths-chatgpt.png` and cut into twenty individual true-alpha frames under `public/assets/sprites-v3/`. All runtime sprites use binary alpha so no colored background fringe remains.
